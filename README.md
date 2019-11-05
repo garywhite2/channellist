@@ -31,6 +31,7 @@ USA Network|
 A&E|
 HGTV|
 History Channel|
+HBO
 
 ------UK CHANNELS------
 BBC One HD|
