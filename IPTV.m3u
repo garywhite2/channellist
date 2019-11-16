@@ -1,19 +1,13 @@
-#EXTINF:-1 tvg-id="2" tvg-name="CBS2 NY" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/WCBS.png" group-title="US Local",WCBS New York
+#EXTINF:-1 tvg-id="4" tvg-name="CBS4 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CBS.png" group-title="US Local",WFOR Miami
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CBS4 Boston" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CBS.png" group-title="US Local",WBZ Boston
-https://pasta.stream/IPTV/cbsm3u8?id=25320&bitrate=4500&.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="NBC4 NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="US Local",WNBC New York
-http://23.237.22.82:8086/udp/127.0.0.1:56202
 #EXTINF:-1 tvg-id="6" tvg-name="NBC6 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/NBC.png" group-title="US Local",WTVJ Miami
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="ABC7 LA" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/WABC.png" group-title="US Local",KABC Los Angeles
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/j.m3u8?pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-id="8" tvg-name="ABC10 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ABC.png" group-title="US Local",WPLG Miami
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="FOX7 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/FOX_HD.png" group-title="US Local",WSVN Miami
+#EXTINF:-1 tvg-id="8" tvg-name="FOX7 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/FOX_HD.png" group-title="US Local",WSVN Miami
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="FOX25 Boston" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/FOX.png" group-title="US Local",WFXT Boston
-https://pasta.stream/IPTV/foxm3u8?id=25502&bitrate=4500&.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="ABC10 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ABC.png" group-title="US Local",WPLG Miami
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CNN.png" group-title="News",CNN
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="Fox News-US" tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="News",FOX News
@@ -25,7 +19,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="BBC News UK" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News UK
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPN.png" group-title="Sports",ESPN
-https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="FS1" tvg-logo="https://b.fssta.com/uploads/application/fox-network-logos/FS1.png" group-title="Sports",FOX Sports 1
