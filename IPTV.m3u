@@ -1,116 +1,84 @@
-#EXTINF:-1 tvg-id="4" tvg-name="CBS4 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CBS.png" group-title="US Local",WFOR Miami
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="NBC6 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/NBC.png" group-title="US Local",WTVJ Miami
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="ABC7 LA" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/WABC.png" group-title="US Local",KABC Los Angeles
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/j.m3u8?pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-id="8" tvg-name="FOX7 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/FOX_HD.png" group-title="US Local",WSVN Miami
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/WNYW5.png" group-title="Local",FOX 5 New York (SD)
+https://gma2.blab.email/fox.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/FOX.png" group-title="Local",FOX HD (ET)
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="ABC10 Miami" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ABC.png" group-title="US Local",WPLG Miami
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CBS_-_19.png" group-title="Local",CBS HD (ET)
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/WNBC.png" group-title="Local",NBC HD (ET)
+http://161.0.157.5/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ABC.png" group-title="Local",ABC HD (ET)
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CNN.png" group-title="News",CNN
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="Fox News-US" tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="News",FOX News
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="CBSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="News",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="Sky News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/250px-Sky-news-logo.png" group-title="News",Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="BBC News UK" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News UK
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPN.png" group-title="Sports",ESPN
-https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
-https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="FS1" tvg-logo="https://b.fssta.com/uploads/application/fox-network-logos/FS1.png" group-title="Sports",FOX Sports 1
-https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sports",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/320px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network
-http://23.237.22.82:8086/udp/127.0.0.1:56050
-#EXTINF:-1 tvg-id="76" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/NBCSN.png" group-title="Sports",NBCSN
-http://23.237.22.82:8086/udp/127.0.0.1:56016
-#EXTINF:-1 tvg-id="78" tvg-name="BT Sport 2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/BT_Sport_2.png" group-title="UK Sport",BT Sport 2 UK
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="BT Sport ESPN" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/BT_Sport_ESPN.png" group-title="UK Sport",BT Sport ESPN UK
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png" group-title="Kids",Nick (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1d81c85c-ff9a-48ca-ac76-aaf60ec7e71d&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-id="82" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png" group-title="Kids",Boomerang
-http://95.170.215.118/hls/m3u8/Boomerang.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-id="84" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/The_Weather_Channel.png" group-title="Weather",The Weather Channel
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/PBS.png" group-title="News",PBS HD (ET)
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bloomberg.png" group-title="News",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN LA" tvg-logo="https://pbs.twimg.com/profile_images/960690815361306625/aAingYfa_400x400.jpg" group-title="News",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-id="" tvg-name="CBSN NY" tvg-logo="https://pbs.twimg.com/profile_images/997841169433350144/YNcP_Ort_400x400.jpg" group-title="News",CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="CBSN SF" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/14/7cf6438f-78da-4cc1-ae40-de2d9e043cb0/thumbnail/1200x630/7f30aa89b13ce47027c0edfe0a240036/logo-cbsn-bayarea-1920x1080.jpg" group-title="News",CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TWC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/300px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="TV",VH1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPN.png" group-title="Sports",ESPN HD
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPN2.png" group-title="Sports",ESPN2 HD
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPNews.png" group-title="Sports",ESPNews HD
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ESPNU.png" group-title="Sports",ESPNU
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Fox_Sports_1.png" group-title="Sports",FS1 HD
+https://gma2.blab.email/fs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/MLB_Network.png" group-title="Sports",MLB Network HD
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SECN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="Sports",SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ACC Network
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Disney_Channel.png" group-title="Kids",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png" group-title="General",AMC HD
+http://ott.artmott.com/AMC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ID.png" group-title="General",Investigation Discovery HD
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/E!.png" group-title="General",E! HD
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/TLC.png" group-title="General",TLC HD
+http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/History.png" group-title="General",History HD
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/VH1.png" group-title="General",VH1 HD
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:-1 tvg-id="90" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/TBS.png" group-title="",TBS HD
-https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="TNT" tvg-logo="https://www.celectcom.net/wp-content/uploads/2018/11/logo-tnt-3-220x202.png" group-title="",TNT HD
-https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=4500&.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" group-title="",USA Network HD
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/A&E_East.png" group-title="",A&E HD
-https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/HGTV.png" group-title="",HGTV HD
-https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/History_HD.png" group-title="",History HD
-https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/HBO.png" group-title="",HBO (East)
-https://pasta.stream/IPTV/hbom3u8?id=25349&bitrate=4500&.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/BBC_One_HD.png" group-title="UK",BBC One
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/BBC_Two_HD.png" group-title="UK",BBC Two
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="ITV" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ITV_HD.png" group-title="UK",ITV
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Channel_4_HD.png" group-title="UK",Channel 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Channel_5_HD.png" group-title="UK",Channel 5
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="ITV 2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ITV2.png" group-title="UK",ITV2
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="ITV 3" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ITV3.png" group-title="UK",ITV3
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="ITV 4" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/ITV4.png" group-title="UK",ITV4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="Pick" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Pick.png" group-title="UK",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="Dave" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Dave.png" group-title="UK",Dave
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="E4" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/E4.png" group-title="UK",E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="Challenge" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Challenge.png" group-title="UK",Challenge
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="BBC Cbeebies" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cbeebies.png" group-title="UK",Cbeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="201" tvg-name="ESPN Radio" tvg-logo="https://cdn-profiles.tunein.com/s25876/images/logoq.jpg" group-title="US Radio",ESPN Radio
-http://us-east.edge-1.cis.abacast.net/direct/espn-networkmp3-48
-#EXTINF:-1 tvg-id="202" tvg-name="KSPN 710 Los Angeles" tvg-logo="https://cdn-profiles.tunein.com/s32301/images/logoq.jpg" group-title="US Radio",ESPN Radio Los Angeles (KSPN 710)
-http://edge.espn.cdn.abacast.net/espn-kspnmp3-48
-#EXTINF:-1 tvg-id="203" tvg-name="CNN Radio" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logoq.png" group-title="US Radio",CNN Radio
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Radio" tvg-logo="https://cdn-profiles.tunein.com/s25876/images/logoq.jpg" group-title="US Radio",ESPN Radio
+http://live.wostreaming.net/direct/espn-networkmp3-48?source=TuneIn
+#EXTINF:-1 tvg-id="" tvg-name="KSPN 710 Los Angeles" tvg-logo="https://cdn-profiles.tunein.com/s32301/images/logoq.jpg" group-title="US Radio",ESPN Radio Los Angeles (KSPN 710)
+http://live.wostreaming.net/direct/espn-kspnmp3-48?source=TuneIn
+#EXTINF:-1 tvg-id="" tvg-name="CNN Radio" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logoq.png" group-title="US Radio",CNN Radio
 http://tunein.streamguys1.com/cnn
-#EXTINF:-1 tvg-id="204" tvg-name="KQED-FM (NPR)" tvg-logo="https://cdn-profiles.tunein.com/s34804/images/logoq.png" group-title="US Radio",KQED-FM (NPR San Francisco 88.5)
+#EXTINF:-1 tvg-id="" tvg-name="KQED-FM (NPR)" tvg-logo="https://cdn-profiles.tunein.com/s34804/images/logoq.png" group-title="US Radio",KQED-FM (NPR San Francisco 88.5)
 http://50.31.186.115/kqedradio.mp3
 #EXTINF:-1 tvg-id="205" tvg-name="CBC Music (Pacific)" tvg-logo="https://cdn-profiles.tunein.com/s66855/images/logoq.png" group-title="Canada Radio",CBC Music Vancouver (CBU-FM)
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr
-#EXTINF:-1 tvg-id="206" tvg-name="BBC Radio 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="UK Radio",BBC Radio 1
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="UK Radio",BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q
-#EXTINF:-1 tvg-id="207" tvg-name="BBC Radio 2" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="UK Radio",BBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 2" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="UK Radio",BBC Radio 2
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q
-#EXTINF:-1 tvg-id="208" tvg-name="BBC Radio 3" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="UK Radio",BBC Radio 3
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 3" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="UK Radio",BBC Radio 3
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q
-#EXTINF:-1 tvg-id="209" tvg-name="BBC Radio 4" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="UK Radio",BBC Radio 4 FM
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="UK Radio",BBC Radio 4 FM
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_q
-#EXTINF:-1 tvg-id="210" tvg-name="BBC Radio 5 live" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="UK Radio",BBC Radio 5 live
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 5 live" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="UK Radio",BBC Radio 5 live
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_q
-#EXTINF:-1 tvg-id="211" tvg-name="BBC Radio 6 Music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="UK Radio",BBC Radio 6 Music
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 6 Music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="UK Radio",BBC Radio 6 Music
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_q
-#EXTINF:-1 tvg-id="212" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 1 Xtra
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 1 Xtra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_q
-#EXTINF:-1 tvg-id="213" tvg-name="BBC Radio 4 Extra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 4 Extra
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4 Extra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 4 Extra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q
-#EXTINF:-1 tvg-id="214" tvg-name="BBC World Service" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24948q.png" group-title="UK Radio",BBC World Service News
+#EXTINF:-1 tvg-id="" tvg-name="BBC World Service" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24948q.png" group-title="UK Radio",BBC World Service News
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
-#EXTINF:-1 tvg-id="215" tvg-name="Radio National (Australia)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20269q.png" group-title="AU Radio",ABC Radio National
+#EXTINF:-1 tvg-id="" tvg-name="Radio National (Australia)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20269q.png" group-title="AU Radio",ABC Radio National
 http://live-radio02.mediahubaustralia.com/2RNW/mp3/
