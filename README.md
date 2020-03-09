@@ -7,54 +7,39 @@ https://www.videolan.org/vlc/
 
 List of channels:
 ------US CHANNELS------
-NBC (WNBC New York, WTVJ South Florida)|
-CBS (WCBS New York)|
+NBC (WTVJ South Florida)|
+CBS (WFOR South Florida|
 ABC (KABC Los Angeles, WPLG Miami)|
-FOX (WSVN Miami)|
-CNN|
-FOX News Channel|
-CBSN|
+FOX (WNYW New York, WSVN Miami)|
+PBS (WPBT South Florida)|
+Bloomberg News|
+CBSN Los Angeles|
+CBSN New York|
+CBSN Bay Area|
 ESPN|
 ESPN2|
+ESPNews|
+ESPNU|
 FS1|
 MLB Network|
-NFL Network|
-NBCSN|
-Nickelodeon (from Pluto TV)|
-Boomerang|
-Disney Junior|
-The Weather Channel|
-VH1|
-TBS|
-TNT|
-USA Network|
-A&E|
-HGTV|
+SEC Network|
+ACC Network|
+Disney Channel|
+AMC|
+Investigation Discovery|
+E!|
+TLC|
 History Channel|
-HBO
-
-------UK CHANNELS------
-BBC One HD|
-BBC Two HD|
-ITV HD|
-Channel 4 HD|
-Channel 5 HD|
-ITV2|
-ITV3|
-ITV4|
-E4|
-Pick|
-Dave|
-Challenge|
-BBC Cbeebies|
-BT Sport 2|
-BT Sport ESPN|
-Sky News|
-BBC News Channel|
+VH1
 ------Radio Stations------
 ESPN Radio (National feed and Los Angeles 710AM)|
 CNN Radio|
 NPR Radio (KQED-FM 88.5 San Francisco)|
+KNBR-AM 680 Sports San Francisco
+KCBS-AM 740 San Francisco|
+KNX-AM 1070 Los Angeles|
+WCBS-AM 880 New York|
+MSNBC|
 CBC Music (Vancouver BC)|
 BBC Radio 1, 2, 3, 4, 5 live, 6music, 1Xtra, 4 Extra, World Service|
 ABC Radio National (Australia)|
