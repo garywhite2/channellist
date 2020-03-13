@@ -62,6 +62,8 @@ http://18233.live.streamtheworld.com/SFGIANTS_SC
 http://tunein.streamguys1.com/cnn
 #EXTINF:-1 tvg-id="" tvg-name="KQED-FM" tvg-logo="https://cdn-profiles.tunein.com/s34804/images/logoq.png" group-title="US Radio",KQED-FM (NPR San Francisco 88.5)
 http://50.31.186.115/kqedradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WNYC-FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s21606q.png" group-title="US Radio",WNYC-FM (NPR New York 93.9)
+http://fm939.wnyc.org/wnycfm
 #EXTINF:-1 tvg-id="" tvg-name="KCBS-AM" tvg-logo="https://images.radio.com/radio/1519848345.jpg" group-title="US Radio",KCBS-AM News 740 San Francisco
 http://19273.live.streamtheworld.com/KCBSAM_SC
 #EXTINF:-1 tvg-id="" tvg-name="KNX-AM" tvg-logo="https://images.radio.com/logos/KNXAM_1400x1400.jpg" group-title="US Radio",KNX-AM News 1070 Los Angeles
